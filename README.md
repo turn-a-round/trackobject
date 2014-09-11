@@ -3,7 +3,8 @@ trackobject
 
 this is an experimental and useful piece of javascript tool to keep track of JSON objects of similar structure (though, structure may vary if the signature key combinations are same). 
 
-key objectives/features are 
+key objectives/features are
+
     1. javascript only
     2. fast
     3. event driven
