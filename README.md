@@ -1,7 +1,7 @@
 trackobject
 ===========
 
-this is an experimental and useful piece of javascript tool to keep track of JSON objects of similar structure (though, structure may vary if the signature key combinations are same). 
+this is an useful piece of javascript tool to do what the name suggests, to keep track of JSON objects of similar structure (though, structure may vary if the signature key combinations are same). 
 
 key objectives/features are:
 
